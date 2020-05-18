@@ -1,1 +1,4 @@
-fun start(): String = TODO()
+
+
+
+fun start(): String = "OK"
